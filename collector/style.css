@@ -148,7 +148,7 @@ a.single-about,
 =====================*/
 
 .logo-area img {
-  width: 100px;
+  width: auto;
   margin-top: 7px;
   height: 30px;
 }
@@ -1065,7 +1065,8 @@ footer area css
 ======================*/
 
 .single-footer .logo-area img {
-  width: 90px;
+  width: auto;
+  height: 30px;
 }
 
 .single-footer li a {

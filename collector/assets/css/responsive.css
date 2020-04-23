@@ -339,8 +339,8 @@
         font-size: 18px;
     }
     .logo-area img {
-        width: 80px;
-        height: 25px;
+        width: 100%;
+        height: auto;
     }
     a.gradient-btn {
         font-size: 6px;
@@ -404,8 +404,36 @@
         line-height: 22px;
     }
     a.gradient-btn {
-        font-size: 6px;
+        font-size: 10px;
         padding: 10px 5px;
+    }
+    .welcome-area {
+        padding-top: 70px;
+    }
+    .welcome-btn {
+        margin-right: 0px; 
+    }
+    .welcome-btn .mr-20 {
+        margin-right: 0px; 
+    }
+    .welcome-img, .single-about-area .space-90, .faq-area .space-60 {
+        display: none;
+    }
+    .faq-area .owl-nav {
+        display: none;
+    }
+    .apps-area .heading {
+        margin: 0px;
+    }
+    .section-padding {
+        padding: 30px 0;
+    }
+    .single-footer .logo-area img {
+        width: 150px;
+        height: auto;
+    }
+    .apps-img img {
+        display: none;
     }
     .about-mid-img {
         width: 260px;
@@ -721,6 +749,16 @@
     .single-blog-contact input {
         width: 100%;
         margin-bottom: 20px;
+    }
+    .d-xs-none{
+        display: none;
+    }
+    .apps-area.first-section-pm{
+        padding-top: 90px;
+    }
+    .single-footer ul{
+        display: flex;
+        justify-content: space-between;
     }
 }
 
