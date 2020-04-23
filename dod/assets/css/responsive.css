@@ -15,13 +15,22 @@
         padding-right: 5px;
     }
     .main-menu li a {
-        font-size: 11px;
+        font-size: 20px;
     }
     .welcome-text h1 {
-        font-size: 24px;
+        margin-top: 65px;
+        font-size: 35px;
+    }
+    .welcome-text h4{
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .gradient-btn.v2 {
+        padding:10px 30px 10px 30px;
+        line-height: 36px;
     }
     a.gradient-btn {
-        font-size: 10px;
+        font-size: 20px;
     }
     .about-mid-text h1 {
         font-size: 24px;
@@ -42,6 +51,9 @@
         line-height: 45px;
         margin: 0 5px;
     }
+    .single-about-text p{
+        font-size: 18px;
+    }
     .logo-area img {
         width: 90px;
         height: 25px;
@@ -56,6 +68,13 @@
     }
     .about-mid-img {
         width: 500px;
+    }
+    /*/////////*/
+    #pills-tab li a{
+        font-size: 18px;
+    }
+    .single-faq p{
+        font-size: 16px;
     }
     .v2.welcome-progress #days, .v2.welcome-progress #minutes, .v2.welcome-progress #hours, .v2.welcome-progress #seconds {
         font-size: 20px;
@@ -97,11 +116,34 @@
         bottom: -19%;
         right: -11.7%;
     }
+    .row{
+        justify-content: space-around;
+    }
     a.gradient-btn {
-        padding: 13px;
+         padding: 14px;
     }
     .single-blog-social li a {
         margin-bottom: 20px;
+    }
+    .col-12 p {
+        font-size: 18px;
+    }
+    #responsiv{
+        padding-top: 43px;
+    }
+    #responsiv p{
+        font-size: 18px;
+    }
+    .single-footer ul{
+        padding-top: 45px;
+    }
+    .single-footer a{
+        font-size: 17px;
+    }
+    #mailres{
+        font-size: 16px;
+        padding-top: 15px;
+        padding-bottom: 15px;
     }
 }
 
@@ -117,10 +159,45 @@
         width: 400px;
         margin: 0 auto;
     }
+    .welcome-text{
+        text-align: left;
+    }
+    .welcome-text h4 {
+        font-size: 15px;
+    }
+    .welcome-btn{
+        float: left;
+    }
     .welcome-right {
         text-align: center;
         padding: 50px 0;
     }
+    .single-faq h4 {
+        font-size: 21px;
+    }
+    .row{
+        text-align: left;
+        justify-content: space-between;
+    }
+    .apps-area .heading{
+        font-size: 16px;
+        width: 550px;
+    }
+    .single-team-content h6{
+        font-size: 14px;
+    }
+    .apps-img{
+        display: none;
+    }
+
+    .single-team-content h6{
+        font-size: 15px;
+    }
+    .single-footer ul{
+        padding-top: 46px;
+        padding-left: 100px;
+    }
+
     .slicknav_menu {
         padding-top: 15px;
     }
@@ -171,7 +248,7 @@
         line-height: 30px;
     }
     .welcome-text h4 {
-        font-size: 13px;
+        font-size: 15px;
     }
     .gradient-btn.v2 {
         margin-bottom: 20px;
@@ -229,7 +306,7 @@
         font-size: 20px;
     }
     .single-team-content h6 {
-        font-size: 12px;
+        font-size: 14px;
     }
     .ico-heading h1 {
         font-size: 24px;
@@ -339,8 +416,8 @@
         font-size: 18px;
     }
     .logo-area img {
-        width: 100%;
-        height: auto;
+        width: 80px;
+        height: 25px;
     }
     a.gradient-btn {
         font-size: 6px;
@@ -404,36 +481,8 @@
         line-height: 22px;
     }
     a.gradient-btn {
-        font-size: 10px;
+        font-size: 6px;
         padding: 10px 5px;
-    }
-    .welcome-area {
-        padding-top: 70px;
-    }
-    .welcome-btn {
-        margin-right: 0px; 
-    }
-    .welcome-btn .mr-20 {
-        margin-right: 0px; 
-    }
-    .welcome-img, .single-about-area .space-90, .faq-area .space-60 {
-        display: none;
-    }
-    .faq-area .owl-nav {
-        display: none;
-    }
-    .apps-area .heading {
-        margin: 0px;
-    }
-    .section-padding {
-        padding: 30px 0;
-    }
-    .single-footer .logo-area img {
-        width: 150px;
-        height: auto;
-    }
-    .apps-img img {
-        display: none;
     }
     .about-mid-img {
         width: 260px;
@@ -750,16 +799,6 @@
         width: 100%;
         margin-bottom: 20px;
     }
-    .d-xs-none{
-        display: none;
-    }
-    .apps-area.first-section-pm{
-        padding-top: 90px;
-    }
-    .single-footer ul{
-        display: flex;
-        justify-content: space-between;
-    }
 }
 
 /*
@@ -798,12 +837,15 @@
     .single-about-text h4 {
         font-size: 18px;
     }
+    .welcome-img{
+        display: none;
+    }
     .welcome-text h1 {
         font-size: 24px;
         line-height: 36px;
     }
     .welcome-text h4 {
-        font-size: 13px;
+        font-size: 15px;
         margin-bottom: 35px;
         line-height: 20px;
     }
@@ -815,6 +857,7 @@
         padding-top: 8px;
     }
     .gradient-btn.v2 {
+        font-size: 15px;
         height: 40px;
         line-height: 40px;
     }
@@ -839,6 +882,9 @@
         width: 130px;
         height: 90px;
     }
+    .row{
+        text-align: left;
+    }
     .single-team {
         width: 350px;
         margin: 0 auto;
@@ -848,8 +894,22 @@
         font-size: 15px;
     }
     .apps-img img {
+        display: none;
         width: 400px;
         margin-top: 50px;
+    }
+    .single-footer ul{
+       
+        padding-top: 42px;
+    }
+    #responsiv p{
+        margin-bottom: 0;
+    }
+    .section-padding{
+        padding: 0;
+    }
+    .col-12{
+        padding-bottom: 35px;
     }
     .faq-list ul li a {
         font-size: 14px;
@@ -918,6 +978,63 @@
     .single-comment {
         height: 400px;
     }
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    a.logibtn {
+        font-size: 13px;
+    }
+    .welcome-text{
+        text-align: left;
+    }
+    .welcome-text h4{
+        font-size: 12px;
+    }
+    .welcome-btn{
+        padding-left: 30px;
+    }
+    .welcome-img{
+        display: none;
+    }
+    .apps-area.section-padding {
+        padding-top: 80px;
+    }
+    .apps-area p{
+        font-size: 13px;
+    }
+    .apps-img{
+        display: none;
+    }
+    .gradient-btn.about-btn i {
+        font-size: 15px;
+    }
+    .gradient-btn.v2{
+        font-size: 15px;
+    }
+    .apps-area .heading{
+        margin: 0;
+        text-align: left;
+    }
+    gradient-btn.about-btn i {
+        font-size: 15px;
+    }
+    .section-padding{
+        padding: 0px;
+    }
+    .single-footer{
+        padding-bottom: 15px;
+    }
+    .single-footer p{
+        margin-bottom: 0;
+    }
+    .single-about-text p{
+       font-size: 15px; 
+    }
+    #pills-tab a{
+        font-size: 15px;
+    }
+  /*  .row{
+        padding-bottom: 25px;
+    }*/
 }
 
 /*=========================================================================

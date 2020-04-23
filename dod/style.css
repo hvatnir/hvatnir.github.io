@@ -148,7 +148,7 @@ a.single-about,
 =====================*/
 
 .logo-area img {
-  width: auto;
+  width: 100px;
   margin-top: 7px;
   height: 30px;
 }
@@ -1065,8 +1065,7 @@ footer area css
 ======================*/
 
 .single-footer .logo-area img {
-  width: auto;
-  height: 30px;
+  width: 90px;
 }
 
 .single-footer li a {
@@ -1764,3 +1763,17 @@ a.gradient-btn:hover:after{
 ::placeholder{color:#fff}
 
 /*===================================== end =================================*/
+/*responsiv*/
+
+/*@media (max-width: 1200px) {
+  .container{
+    width: 960px;
+  }
+  .main-menu li a {
+    font-size: 20px;
+  }
+  a.gradient-btn {
+    padding: 13px;
+    font-size: 18px;
+  }
+}*/
