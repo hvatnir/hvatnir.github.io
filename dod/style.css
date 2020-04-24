@@ -148,7 +148,7 @@ a.single-about,
 =====================*/
 
 .logo-area img {
-  width: 100px;
+  width: auto;
   margin-top: 7px;
   height: 30px;
 }
@@ -158,8 +158,15 @@ a.single-about,
   z-index: 9999999;
   position: relative;
   width: 100%;
+  transition: .3s;
 }
-
+.fixed-nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 5px 0;
+  background: #272726;
+}
 .header-area.header-absolate.skrollable.skrollable-after {
   padding-top: 15px;
   background: #272726;
@@ -1065,7 +1072,8 @@ footer area css
 ======================*/
 
 .single-footer .logo-area img {
-  width: 90px;
+  width: auto;
+  height: 30px;
 }
 
 .single-footer li a {
@@ -1763,17 +1771,3 @@ a.gradient-btn:hover:after{
 ::placeholder{color:#fff}
 
 /*===================================== end =================================*/
-/*responsiv*/
-
-/*@media (max-width: 1200px) {
-  .container{
-    width: 960px;
-  }
-  .main-menu li a {
-    font-size: 20px;
-  }
-  a.gradient-btn {
-    padding: 13px;
-    font-size: 18px;
-  }
-}*/
