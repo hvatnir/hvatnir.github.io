@@ -1646,7 +1646,7 @@ a.single-blog-top:hover {
 
 .comment-text-form a.custom-btn {
   width: 25%;
-  text-align: center;
+  text-align: left;
   float: right;
 }
 .single-comment {
