@@ -30,6 +30,10 @@ h1, h2, h3, h4 {
 
 /*контент первого экрана*/
 
+.header {
+    height: 100vh
+}
+
 .header-fon {
     background: url('../img/background.png') center;
 }
@@ -226,7 +230,7 @@ nav ul li a.open-done
 /*bisness*/
 
 .bisness {
-    
+    height: 100vh
 }
 
 .bisness-text {
@@ -330,7 +334,7 @@ nav ul li a.open-done
 
 .portfolio {
     background-color: #222222;
-  
+    height: 100vh
 }
 
 .portfolio-all__item {
@@ -559,12 +563,3 @@ nav ul li a.open-done
     border: 3px solid #1e1e1e;
 }
 
-./*services*/
-
-.container-footer {
-    margin-left: auto;
-	margin-right: auto;
-    
-    width: 900px;
-    height: 100vh;
-}
