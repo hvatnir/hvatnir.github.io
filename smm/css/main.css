@@ -25,7 +25,7 @@ h1, h2, h3, h4 {
 	margin-right: auto;
     
     width: 900px;
-    height: 100vh;
+    height: 100vh
 }
 
 /*контент первого экрана*/
@@ -546,7 +546,7 @@ nav ul li a.open-done
 /*services*/
 
 ::-webkit-scrollbar {
-    width: 15px;
+    width: 10px;
 }
 
 ::-webkit-scrollbar-track {
@@ -557,4 +557,14 @@ nav ul li a.open-done
     background: #ee9a49;
     border-radius: 8px;
     border: 3px solid #1e1e1e;
+}
+
+./*services*/
+
+.container-footer {
+    margin-left: auto;
+	margin-right: auto;
+    
+    width: 900px;
+    height: 100vh;
 }
