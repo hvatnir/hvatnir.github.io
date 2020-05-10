@@ -592,5 +592,8 @@ p {
     .menu {
         display: none;
     }
+    .tel {
+        display: none;
+    }
 }
 
