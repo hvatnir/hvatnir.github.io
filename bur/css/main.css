@@ -2,16 +2,11 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
     background-color: #f0f4fa;
+    min-width: 1170px;
 }
 
 * {
     box-sizing: border-box;
-}
-
-.container {
-    margin: 0 auto;
-    height: 100vh;
-    padding: 0 250px;
 }
 
 .container-advantage {
@@ -398,6 +393,7 @@ p {
 
 .cost {
     background-color: #f0f4fa;
+    padding-bottom: 100px;
 }
 
 .cost-all {
@@ -588,18 +584,13 @@ p {
 
 /* media  */
 
-@media(min-width: 321px) and (max-width: 780px)   {
-    .logo {
-        margin-left: 190px;
+@media   {
+    .header-images {
+        width: 500px;
+        height: 300px;
     }
     .menu {
-        display: none;    
-    }
-    .tel {
-        display: none; 
-    }
-    .header-img {
-        display: none; 
+        display: none;
     }
 }
 
