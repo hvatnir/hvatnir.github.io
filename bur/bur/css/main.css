@@ -2,7 +2,6 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
     background-color: #f0f4fa;
-    min-width: 1170px;
 }
 
 * {
@@ -584,16 +583,87 @@ p {
 
 /* media  */
 
-@media (min-width: 780px) and (max-width: 1200px) {
-    .header-images {
-        width: 500px;
-        height: 300px;
-    }
-    .menu {
-        display: none;
-    }
-    .tel {
-        display: none;
-    }
+@media (max-width: 576px) {
+	.container-advantage{
+		padding: 0 20px;
+	}
+	.header-top{
+		flex-wrap: wrap;
+	}
+	.header-content{
+		margin-top: 100px;
+	}
+	.header-h1{
+		font-size: 60px;
+	}
+	.header-img{
+		display: none;
+	}
+	.services-photo__content, .advantage-content, .works-content, .benefits__inner, .cost-content, .who-sum, .comment-content{
+		flex-direction: column;
+	}
+	.services-item, .works-text, .benefits__element{
+		width: 100%;
+	}
+	.img-content__item{
+		width: 100%;
+		height: auto;
+	}
+	.benefits__number{
+		margin-bottom: 0;
+	}
+	.benefits__element{
+		margin-bottom: 50px;
+	}
+	.benefits__element:last-child{
+		margin-bottom: 0;
+	}
+	.cost-content-item{
+		padding: 40px;
+		margin-bottom: 20px;
+	}
+	.cost-content-item:last-child{
+		margin-bottom: 0;
+	}
+	.who-title{
+		width: 100%;
+	}
+	.who-title__h1{
+		font-size: 30px;
+	}
+	.who-title__img img{
+		width: 100%;
+	}
+	.comment-content__item{
+		width: 100%;
+		padding: 25px;
+	}
+	.comment-img{
+		width: 100%;
+		height: auto;
+	}
+	.footer .header-top{
+		padding: 20px;
+	}
+	.header-top .menu ul{
+		padding: 0;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.header-top .menu ul .menu-link{
+		margin-right: 20px;
+		margin-left: 0;
+		padding: 10px;
+	}
+	.header-top .logo{
+		margin: 0 auto;
+		order: 0;
+	}
+	.header-top .menu{
+		order: 2;
+	}
+	.header-top div.tel{
+		order: 1;
+		margin: 20px auto;
+	}
 }
-
