@@ -1,0 +1,18 @@
+body {
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+
+    margin: 0 auto;
+    padding: 0 100px;
+}
+
+.header {
+    height: 800px;
+    background: url(../img/manwoman.png) center no-repeat;
+}
