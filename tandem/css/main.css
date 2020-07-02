@@ -1,0 +1,458 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin:  0 auto;
+    padding: 0 50px;
+    position: relative;
+}
+
+
+/* menu */
+
+.header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-item {
+    width: 200px;
+    height: 150px;
+}
+
+.menu {
+ 
+}
+
+.menu-item {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+
+.header-buy__h5 {
+    border: 2px solid #fff;
+    padding: 8px 25px;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+
+/* header-content */
+
+
+
+.header-content__all {
+    display: flex;
+}
+
+.section4-headercontent__left {
+    z-index: 2;
+}
+
+.content-item {
+    
+}
+
+.content-right__h1 {
+    font-size: 80px;
+    margin-top: 100px;
+    text-transform: uppercase;
+}
+
+.header-btn {
+    display: flex;
+    margin-top: 30px;
+}
+
+.detail {
+    border: 1px solid #fff;
+    padding: 10px 36px;
+    border-radius: 20px;
+}
+
+.buy-now {
+    background-color: #7722ff;
+    padding: 10px 36px;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.buy-now__h3 {
+    
+}
+
+.header-social {
+    margin-left: 60px;
+}
+
+.header-social__img {
+    height: 20px;
+    width: 20px;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+
+
+/* section2 */
+
+
+.section2-all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pepsi-h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.pepsi-h3 {
+    margin-top: 20px;
+}
+
+.pepsi-p {
+    font-size: 13px;
+    margin-top: 8px;
+}
+
+.pepsi-hr {
+    width: 600px;
+    height: 1px;
+    background-color: #fff;
+}
+
+.pepsi-p__two {
+    margin-top: 20px;
+}
+
+.pepsi-hr__b {
+    width: 600px;
+    height: 4px;
+    background-color: #fff;
+}
+
+.pepsu-nutri {
+    border: 1px solid #fff;
+    width: 612px;
+    padding: 5px 5px;
+}
+
+.pepos__p {
+    color: darkgray;
+    font-size: 13px;
+    width: 650px;
+    margin-top: 30px;
+}
+
+.section-2__albtn {
+    display: flex;
+    align-items: center;
+}
+
+.section2-btn {
+    margin-top: 30px;
+    border: 2px solid #fff;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #fff;
+}
+
+.section2-btn__two {
+    margin-top: 30px;
+    display: inline-block;
+    font-weight: 400;
+    margin-left: 40px;
+    color: darkgray;
+    text-decoration: none;
+    border-bottom: 1px solid darkgray;
+    padding: 5px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* section3 */
+
+
+.section-left {
+    display: flex;
+    align-items: center;
+    justify-content: space-around
+}
+
+.sectin-left__text {
+}
+
+.section-left__h1 {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.section-left__p {
+    width: 450px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.promotion-img {
+    width: 700px;
+}
+
+.section3-btn {
+    border: 2px solid #fff;
+    display: inline-block;
+    padding: 7px 26px;
+    border-radius: 20px;
+    margin-top: 30px;
+    font-weight: 700;
+}
+
+.bottom-arrow {
+    position: absolute;
+    top: 450px;
+    text-align: center;
+    left: 48%;
+}
+
+.bottom-arrow__p {
+    font-weight: 700;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.bottom-arrow__img {
+    width: 30px;
+    height: 70px;
+}
+
+
+/* section4 */
+
+
+.section4-content__all {
+    display: flex;
+    justify-content: space-around;
+}
+
+.section4-header__img {
+    width: 160px;
+    height: 120px;
+}
+
+.section4-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.section4-header__menu {
+    margin-left: 550px;
+}
+
+.section-menu__item {
+    text-decoration: none;
+    color: darkgray;
+    margin-left: 60px;
+    font-weight: 700;
+}
+
+.section4-hr {
+    height: 4px;
+    width: 70px;
+    background-color: tomato;
+    margin-left: 85px;
+}
+
+.section4-header__h1 {
+    font-size: 70px;
+    font-weight: 900;
+    margin-left: 85px;
+}
+
+.section4-headercontent__right {
+    width: 500px;
+    z-index: 2;
+}
+
+.section4-headercontent__h1 {
+    font-size: 15px;
+    color: darkgray
+}
+
+.section4-headercontent__h2 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.section4-headercontent__p {
+    font-size: 13px;
+    color: darkgray;
+    margin-top: 20px;
+}
+
+.section4-headercontent__btn {
+    border-bottom: 1px solid orange;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: orange;
+    font-weight: 700;
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+
+.section4-header__center {
+    position: absolute;
+    z-index: 1;
+    bottom: 0px;
+    left: 450px;
+}
+
+.section4-content__img {
+    width: 400px;
+}
+
+.section4-bottom__all {
+    background-color: #232732;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section4-bottom__left {
+    padding: 40px
+}
+
+.section4-botton__h4 {
+    color: darkgray;
+    margin-left: 5px;
+}
+
+.section4-botton__p {
+    color: darkgray;
+    font-size: 13px;
+    width: 500px;
+    margin-top: 20px;
+}
+
+.bot-hr {
+    display: flex;
+    align-items: center;
+}
+
+.bote-hr {
+    height: 1px;
+    width: 10px;
+    background-color: darkgray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#section1 {
+    background: url('../img/section-1.jpg');
+    background-size: cover;
+}
+
+#section2 .slide:nth-child(1) {
+    background-color: #cc2578;
+}
+
+#section2 .slide:nth-child(2) {
+    background-color: #bb9339;
+}
+
+#section2 .slide:nth-child(3) {
+    background-color: #a46a17;
+}
+
+#section2 .slide:nth-child(4) {
+    background-color: #000000;
+}
+
+
+#section3 {
+    background: url('../img/section-1.jpg');
+    background-size: cover;
+}
+
+#section4 {
+    background-color: #323345;
+}
+
+
+
+
+
+
+
