@@ -75,7 +75,7 @@ p {
 .section1-title {
     font-size: 80px;
     font-weight: 900;
-    padding-top: 70px;
+    padding-top: 100px;
     text-transform: uppercase;
 }
 
@@ -449,6 +449,7 @@ padding-top: 30px;
     display: flex;
     align-items: center;
     margin: 30px 0;
+    text-decoration: none;
 }
 
 .telegram {

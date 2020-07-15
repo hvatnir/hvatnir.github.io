@@ -8,10 +8,3 @@ $(document).ready(function() {
 });
 
 
-$(".center").slick({
-  dots: true,
-  infinite: true,
-  centerMode: true,
-  slidesToShow: 2,
-  slidesToScroll: 5
-});
