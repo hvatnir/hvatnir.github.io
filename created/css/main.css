@@ -1065,25 +1065,24 @@ form {
 @media screen and (max-width: 575px) {
     .container {
         width: 400px;
-        padding: 0px;
+        padding: 0 29px;
     }
 
     .header-menu {
         display: none;
     }
     .img-content__item {
-        width: 300px;
+        width: 370px;
         height: 150px;
     }
     .header-content {
         position: relative;
     }
     .text-content__h1 {
-        position: absolute;
-        top: 0;
-        left: 0;
-        font-size: 13px;
-        color: #000;
+        display: none;
+    }
+    .text-content__p {
+        display: none;
     }
     .header-content__btn {
         display: none;
@@ -1092,7 +1091,7 @@ form {
         display: none;
     }
     .site-content__h1 {
-        width: 400px;
+        width: 300px;
         font-size: 30px;
     }
     .site-content__p {
@@ -1129,12 +1128,8 @@ form {
         font-size: 30px;
         font-weight: 100;
     }
-    .site-content__h1 {
-        font-size: 20px;
-    }
-    .site-content__p {
-        width: 250px;
-        text-align: justify;
+    .about{
+        display: none;
     }
     .project-item {
         width: 100px;
@@ -1170,13 +1165,13 @@ form {
     .one-price__h4 {
         font-size: 30px;
     }
-    .colum-price {
-        border: 1px solid #7b7c83;
-        margin: 8px 0;
-    }
+   .hr-two {
+    margin-left: 20px;
+   }
     .one-hr__h3 {
         font-size: 13px;
         width: 130px;
+        margin-left: 20px;
     }
     .price-btn {
         width: 80px;
@@ -1194,9 +1189,6 @@ form {
     }
     .siter {
         background: none;
-    }
-    .all-site__hr {
-        display: none;
     }
     .footer-tel__link {
         font-size: 10px;
