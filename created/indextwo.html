@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
+    <main>
     <header class="header">
         <div class="container">
             <div class="header-top">
@@ -87,7 +88,7 @@
                 </div>
                 <div class="kontekst-text">
                     <p class="kontekst-text__p" >Стоимость продвижения сайта по Харькову, либо всей Украине индивидуальна. Только после анализа рынка SEO и ключевых слов по которым мы сможем привлечь клиентов мы сможем сказать цену. Свяжитесь с нашими специалистами, или оставьте заявку, и мы в ближайшее время ответим на Ваши вопросы.</p>
-                    <button class="footer-btn" >Рассчитать стоимость</button>
+                    <button class="footer-btn js-btn" >Рассчитать стоимость</button>
                 </div>
             </div>
         </div>
@@ -101,7 +102,7 @@
                         <h5 class="full-price__h5" >Продвижение веб-сайтов</h5>
                         <img class="full-price__img" src="img/prodig.jpg" alt="">
                         <p class="full-price__p" >Для небольших веб-сайтов</p>
-                        <button class="full-price__btn" >Оставить заявку</button>
+                        <button class="full-price__btn js-btn" >Оставить заявку</button>
                     </div>
                 </div>
                 <div class="full-price__top">
@@ -109,7 +110,7 @@
                         <h5 class="full-price__h5" >Продвижение веб-сайтов</h5>
                         <img class="full-price__img" src="img/shop.jpg" alt="">
                         <p class="full-price__p" >Для небольших веб-сайтов</p>
-                        <button class="full-price__btn" >Оставить заявку</button>
+                        <button class="full-price__btn js-btn" >Оставить заявку</button>
                     </div>
                 </div>
                 <div class="full-price__top">
@@ -117,13 +118,82 @@
                         <h5 class="full-price__h5" >Продвижение веб-сайтов</h5>
                         <img class="full-price__img" src="img/map.jpg" alt="">
                         <p class="full-price__p" >Для небольших веб-сайтов</p>
-                        <button class="full-price__btn" >Оставить заявку</button>
+                        <button class="full-price__btn js-btn" >Оставить заявку</button>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
+    <section class="footer">
+        <div class="container">
+            <div class="footer-all">
+                <div class="site-all-sectionleft">
+                    <div class="all-site__hr">
+                        <div class="site-hr">
+                            <div class="footer-hr"></div>
+                        </div>
+                        <div class="site-title">
+                            <h3 class="site-title__h3" >Мы вас не бросим</h3>
+                        </div>
+                    </div>
+                    <div class="site-content">
+                        <div class="site-content__title">
+                            <h1 class="site-content__h1" >Мы диджитализируем <br>Ваш <br> Бизнес </h1>
+                        </div>
+                        <button class="footer-btn js-btn" > Обсудить разработку сайта</button>
+                    </div>
+                    <div class="footer-tel">
+                        <div class="footer-number">
+                            <p class="footer-tel__p" >Звоните, обсудим</p>
+                            <a class="footer-tel__link" href="tel:380666746835">+380(66)674-68-35</a>
+                        </div>
+                        <div class="footer-mail">
+                            <p class="footer-tel__p" >Для коммерческих <br> предложений</p>
+                            <a class="footer-tel__link" href="#">office+1048576@wezom.com.ua</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="site-all-sectionright">
+                    <div class="form">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                
+                            </div><!-- .col-sm-4 -->
+                        </div> <!-- .row -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+<div class="overlay js-overlay">
+    <div class="popup js-popup">
+        <form action="telegram.php" method="POST">
+                                
+              
+            <div class="form-group">
+                <label class="form-group__number" for="">Введите ваше имя</label>
+                <input class="form-group__in" type="text" class="form-control" id="" name="user_name" placeholder="Например, Олег">
+            </div>
+        
+            <div class="form-group">
+                <label class="form-group__number" for="">Введите номер телефона</label>
+                <input class="form-group__in" type="text" class="form-control" id="" name="user_phone" placeholder="+38 (66) 574 69 ">
+            </div>
+        
+            <div class="form-group">
+                <label class="form-group__number" for="">Введите email</label>
+                <input class="form-group__in" type="text" class="form-control" id="" name="user_email" placeholder="mail@gmail.ua">
+            </div>
+        
+            <button type="submit" class="btn btn-primary">Отправить форму</button>
+        </form>
+        <div class="close-popup js-close-popup"></div>
+    </div>
+</div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/popup.js"></script>
 </body>
 </html>
