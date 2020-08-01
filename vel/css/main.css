@@ -830,10 +830,19 @@ p {
 }
 
 
-@media screen and (max-width: 470px) {
+@media screen and (max-width: 347px) {
+  .header-btn {
+    margin-top: 30px;
+  }
+}
+
+@media screen and (max-width: 576px) {
     .container {
-        width: 300px;
+        width: 80%;
       
+    }
+    .header-top {
+      flex-wrap: wrap;
     }
     .menu {
             display: none;
@@ -852,16 +861,22 @@ p {
         display: none;
     }
     .header-title {
-        width: 300px;
+        /*width: 300px;*/
+        width: 100%;
     }
     .header-content__title {
         font-size: 30px;
         font-weight: 900;
-        width: 300px;
+        /*width: 300px;*/
+        width: 100%;
     }
     .header-content__text {
-        width: 300px;
+        /*width: 300px;*/
+        width: 100%;
        
+    }
+    .price-top {
+      flex-wrap: wrap;
     }
     .price-top__title {
         font-size: 30px;
@@ -890,10 +905,12 @@ p {
         display: none;
     }
     .stages-image__img {
-        width: 300px;
+        /*width: 300px;*/
+        width: 100%;
     }
     .price-item__text {
       font-size: 13px;
+        width: 100%;
     }
     .works {
         padding-top: 70px;
@@ -908,7 +925,7 @@ p {
     .works-item__title {
         font-size: 20px;
         width: 200px;
- ;
+ 
     }
     .works-item__title span{
         font-size: 25px;
@@ -917,7 +934,8 @@ p {
     }
     .works-item__text {
         font-size: 13px;
-        width: 300px;
+        /*width: 300px;*/
+        width: 100%;
         margin-top: 20px;
     }
     .works-none {
@@ -927,10 +945,11 @@ p {
         display: none;
     }
     .portfolio {
-     
+      width: 100%;
     }
     .portfolio_text {
-        width: 300px;
+        /*width: 300px;*/
+        width: 100%;
     }
     .stages-content {
         display: grid;
@@ -940,14 +959,26 @@ p {
         display: none;
     }
     .stages-content__item {
-        width: 300px;
+        /*width: 300px;*/
+        width: 100%;
         margin-top: 30px;
     }
+    .footer {
+      height: auto;
+    }
+    .footer-item {
+        padding-bottom: 50px;
+    }
     .footer-item__text {
-        width: 300px;
+        /*width: 300px;*/
+        width: 100%;
         font-size: 13px;
     }
     .tallking-title__h1 {
         font-size: 24px;
+    }
+    .tallking-arrow {
+      width: 100%;
+      justify-content: space-around;
     }
 }
