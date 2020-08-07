@@ -122,3 +122,334 @@ h1, h2, h3, h4, h5 {
 .right-content__img {
    
 }
+
+
+/* work */
+
+.work {
+    background-color: #f2f2f2;
+}
+
+.work-all {
+    display: flex;
+    justify-content: space-between;
+    display: grid;
+     grid-template-columns: 1fr 1fr 1fr 1fr;
+     padding-top: 30px;
+     padding-bottom: 30px;
+}
+
+.work-item {
+    background-color: #fff;
+    padding: 25px 25px;
+    border-radius: 6px;
+    margin: 5px 5px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+
+.work-item__img {
+    width: 200px;
+}
+
+.work-item__h1 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.works-item__gram {
+    font-weight: 700;
+    font-size: 14px;
+    color: rgb(192, 192, 192);
+}
+
+.work-hr {
+    height: 1px;
+    width: 100%;
+    background-color: rgb(170, 170, 170);
+    opacity: .5;
+}
+
+.work-price {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.work-item__griv {
+    font-weight: 700;
+    font-size: 23px;
+}
+
+.work-item__a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    background-color: rgb(235, 62, 62);
+    padding: 14px 25px;
+    border-radius: 6px;
+}
+
+.work-item__a:hover {
+    background-color: darkorchid;
+}
+
+
+
+/* best */
+
+
+.best {
+    background-color: #191919;
+}
+
+.best-all {
+    display: flex;
+}
+
+.best-item {
+    width: 300px;
+    height: 400px;
+    margin: 0px 5px;
+    margin-top: 20px;
+}
+
+.best-item__images {
+    width: 300px;
+}
+
+.best-title {
+    padding-top: 25px;
+}
+
+.best-title__h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+}
+
+.best-item__price {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.best-item__text{
+    width: 70%;
+    text-align: center;
+    line-height: 1;
+}
+
+.best-item__p {
+    font-size: 10px;
+}
+
+.best-item__link {
+    background-color: darkgoldenrod;
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    height: 100%;
+    text-align: center;
+}
+
+.best-item__link:hover {
+    background-color: darkorchid;
+}
+
+.bip {
+    font-weight: 700;
+}
+
+
+
+/* works */
+
+
+.works-title__h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #000;
+    opacity: .8;
+    text-align: center;
+}
+
+.ep {
+    padding-top: 30px;
+}
+
+
+/* footer */
+
+
+.footer {
+    background-color: #1d1d1d;
+    height: 300px;
+    padding-top: 50px;
+}
+
+.footerene {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer-all {
+    display: flex;
+    font-weight: 100;
+    font-size: 13px;
+}
+
+.footer-iteme {
+    font-weight: 700;
+}
+
+.footer-left {
+    margin-left: 150px;
+}
+
+.footer-menu__item {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    margin: 5px 0;
+}
+
+.footer-item {
+    color: #fff;
+}
+
+.footer-item__mail {
+    margin-top: 20px;
+}
+
+.footer-mail {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-link {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    margin: 5px 0;
+}
+
+.appendgoogle {
+    margin-left: 150px;
+}
+
+.appe-item {
+    width: 150px;
+    display: block;
+    margin-top: 10px;
+}
+
+.footer-itemx {
+    color: #fff;
+    font-weight: 700;
+}
+
+.footer-bottom__title {
+    color: #fff;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 100;
+    margin-top: 50px;
+}
+
+
+
+/* order */
+
+.order {
+    padding: 100px;
+}
+
+.order-all {
+    display: flex;
+}
+
+.order-title__h1 {
+    font-size: 30px;
+}
+
+.order-hr {
+    width: 80px;
+    height: 3px;
+    background-color: #000;
+    opacity: .3;
+    margin-top: 20px;
+}
+
+.order-text {
+    font-size: 14px;
+    width: 600px;
+}
+
+.order-text__two {
+    font-size: 14px;
+    width: 600px;
+}
+
+.order-text span {
+    font-weight: 700;
+}
+
+.order-btn {
+    margin-top: 50px;
+}
+
+.order-btn__item {
+    text-decoration: none;
+    color: #000;
+    border: 1px solid #000;
+    padding: 15px 25px;
+}
+
+.order-btn__item:hover {
+    background-color: rgb(214, 99, 46);
+    color: #fff;
+}
+
+
+.reviews {
+   
+}
+
+.reviews-title__h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.reviews-alle {
+    display: flex;
+    justify-content: space-around;
+}
+
+.reviews-item__right span {
+    font-weight: 100;
+}
+
+.reviews-item {
+    text-align: center;
+    margin: 50px 0;
+    border: 1px solid rgb(231, 231, 231);
+    padding: 30px 30px;
+    background-color: #fff;
+}
+
+.reviews-item__img {
+    width: 70px;
+    margin-bottom: 10px;
+}
+
+.stars {
+    margin-top: 10px;
+}
+
+.stars-item {
+    width: 10px;
+
+}
