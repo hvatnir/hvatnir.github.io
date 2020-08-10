@@ -214,6 +214,17 @@ h1, h2, h3, h4, h5 {
     padding: 50px;
 }
 
+.tour-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.tour-text {
+    text-align: center;
+    font-size: 13px;
+}
+
 .tour-content {
     display: flex;
     align-items: center;
@@ -399,6 +410,64 @@ h1, h2, h3, h4, h5 {
 
 
 
+/* wetman */
+
+.westman {
+    background-color: #fff;
+    color: #000;
+    padding-top: 60px;
+}
+
+.westman-all {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.westman-img {
+    width: 500px;
+}
+
+.westman-right__title {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.westman-hr {
+    width: 40px;
+    height: 6px;
+    background-color: dodgerblue;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.westman-right__text {
+    font-size: 13px;
+    line-height: 1.6;
+    width: 450px;
+
+}
+
+.westman-right__text span {
+    font-weight: 700;
+}
+
+.westman-btn {
+    margin-top: 50px;
+}
+
+.westman-button {
+    background-color: rgb(12, 3, 53);
+    color: #fff;
+    text-decoration: none;
+    padding: 20px 35px;
+    font-weight: 700;
+}
+
+
+
+
+
 /* pre-bot */
 
 
@@ -411,13 +480,13 @@ h1, h2, h3, h4, h5 {
 
 
 .go {
-    background-color: #101012;
+    background-color: #1b2944;
     height: 450px;
     position: relative;
 }
 
 .form-control {
-    background-color: #101012;
+    background-color: #1b2944;
     border: none;
     border-bottom: 1px solid #fff;
     margin-top: 50px;
