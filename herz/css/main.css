@@ -87,6 +87,11 @@ ul {
     margin: 0 15px;
     font-weight: 600;
     color: rgb(138, 138, 138);
+    transition: all .3s;
+}
+
+.menu-item:hover {
+    color: thistle;
 }
 
 .contact-item {
@@ -96,10 +101,15 @@ ul {
 .contact-item {
     font-size: 12px;
     font-weight: 700;
-    color: rgb(0, 0, 0);
-    border: 1px solid #000;
+    color: rgb(240, 240, 240);
     padding: 15px 25px;
     border-radius: 25px;
+    background-color: #34c9b7;
+    transition: all .3s;
+}
+
+.contact-item:hover {
+    background-color: thistle;
 }
 
 .header-all {
@@ -197,6 +207,7 @@ ul {
     border-radius: 20px;
     padding: 30px 30px;
     box-shadow: 0 0 30px rgba(0,0,0,0.1);
+    background-color: #fff;
 }
 
 .content-item__image {
@@ -239,7 +250,6 @@ width: 250px;
 
 .portfolio-item {
     text-align: center;
-
 }
 
 .portfolio-item__text {
@@ -283,6 +293,7 @@ width: 250px;
     border-radius: 10px;
     padding: 30px 40px;
     box-shadow: 0 0 30px rgba(0,0,0,0.1);
+    background-color: #fff;
 }
 
 .price-item__img {
@@ -338,6 +349,11 @@ width: 250px;
     font-weight: 700;
     border-radius: 25px;
     font-size: 12px;
+    transition: all .3s;
+}
+
+.btn-price__btn-link:hover {
+    background-color: violet;
 }
 
 .price-comment {
@@ -531,6 +547,12 @@ width: 250px;
     font-weight: 600;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     margin-top: 30px;
+    transition: all .3s;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: violet;
 }
 
 .footer-bottom {
