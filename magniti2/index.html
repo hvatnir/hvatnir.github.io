@@ -107,7 +107,10 @@
 		<section class="work_section">
 			<h2 class="title">Как работает Quit&nbsp;smoking?</h2>
 			<div class="image_block">
-				<iframe width="100%" height="290" src="https://www.youtube-nocookie.com/embed/HZph_AcPqos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<video width="100%" id="autoplay" muted playsinline controls>
+					<source src="video/videoplayback.mp4" type="video/mp4">
+					<source src="video/videoplayback.webm" type="video/webm">
+				 </video>
 			</div>
 			<ul class="list1 llf">
 				<li>Корректор необходимо носить каждый день, особенно это касается людей, которые ведут сидячий образ жизни. В подобной ситуации изделие станет настоящим спасением. Поможет укрепить осанку и выровнять позвоночник не прибегая к помощи специалистов.</li>
@@ -212,7 +215,9 @@
 
 
 
-
+	<script>
+		document.getElementById('autoplay').play();
+		</script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
 	<script src="assets_pages\land\js\youtube\previewYouTube.js"></script>
 	<script src="assets_pages\land\js\slider\owlCarousel-2.2.1\owl.carousel.min.js"></script>
