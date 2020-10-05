@@ -1,0 +1,364 @@
+Uri: https://designkitchen.com.ua/
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\index.htm
+Content Type: text/html
+
+Uri: https://designkitchen.com.ua/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://designkitchen.com.ua/favicon-32x32.png
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://designkitchen.com.ua/favicon-16x16.png
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://designkitchen.com.ua/site.webmanifest
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\site.webmanifest
+Content Type: 
+
+Uri: https://designkitchen.com.ua/safari-pinned-tab.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/css/style.css
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\css\style.css
+Content Type: text/css
+
+Uri: https://designkitchen.com.ua/image/logo.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/header.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\header.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/certificate.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\certificate.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/fire_1.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\fire_1.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/tablet.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\tablet.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/nipple.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\nipple.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/waiting.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\waiting.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/keyboard.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\keyboard.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/box.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\box.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Asset_234.1.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Asset_234.1.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Asset_224.1.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Asset_224.1.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Layer_2.4.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Layer_2.4.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Asset_225.1.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Asset_225.1.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Layer_2.2.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Layer_2.2.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Asset_230.1.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Asset_230.1.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Layer_2.3.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Layer_2.3.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Asset_222.1.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Asset_222.1.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Asset_238.1.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Asset_238.1.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Layer_2.1.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Layer_2.1.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/Asset_231.1.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\Asset_231.1.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/kotel.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\kotel.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/skills/fire.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\skills\fire.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/balloon.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\balloon.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/money-bag.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\money-bag.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/like.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\like.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/ear.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\ear.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/teacher-1.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\teacher-1.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/teacher-2.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\teacher-2.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/teacher-8.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\teacher-8.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/teacher-4.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\teacher-4.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/teacher-11.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\teacher-11.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/teacher-6.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\teacher-6.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/teacher-10.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\teacher-10.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/cooperation.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\cooperation.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/ok.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\ok.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/portfolio.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\portfolio.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/portfolio_2.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\portfolio_2.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/portfolio_3.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\portfolio_3.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/portfolio_4.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\portfolio_4.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/portfolio_5.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\portfolio_5.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/portfolio_6.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\portfolio_6.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/student_1.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\student_1.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/student_6.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\student_6.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/student_2.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\student_2.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/student_3.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\student_3.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/student_4.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\student_4.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/student_5.jpg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\student_5.jpg
+Content Type: image/jpeg
+
+Uri: https://designkitchen.com.ua/image/review.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\review.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_1.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_1.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_2.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_2.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_3.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_3.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_4.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_4.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_5.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_5.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_6.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_6.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_7.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_7.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_8.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_8.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_9.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_9.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_10.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_10.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_11.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_11.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/userpic_12.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\userpic_12.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/pan.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\pan.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/girl.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\girl.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/boy.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\boy.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/employee.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\employee.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/fire_2.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\fire_2.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/horse.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\horse.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/ux_dog.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\ux_dog.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/footer-logo.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/js/main.js
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\js\main.js
+Content Type: application/javascript
+
+Uri: https://designkitchen.com.ua/fonts/GothamPro.eot
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\fonts\GothamPro.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://designkitchen.com.ua/fonts/GothamPro.woff
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\fonts\GothamPro.woff
+Content Type: font/woff
+
+Uri: https://designkitchen.com.ua/fonts/GothamPro.ttf
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\fonts\GothamPro.bin
+Content Type: application/octet-stream
+
+Uri: https://designkitchen.com.ua/image/icons/phone.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/phone_alt.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\phone_alt.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/calendar.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/clock.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\clock.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/money.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\money.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/instagram.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/facebook.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/behance.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\behance.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/dribbble.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\dribbble.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/geolocation.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\geolocation.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/plus.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://designkitchen.com.ua/image/icons/mail.svg
+File Name: c:\Downloaded Web Sites\designkitchen.com.ua\image\icons\mail.svg
+Content Type: image/svg+xml
+
