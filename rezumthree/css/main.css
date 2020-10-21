@@ -1,0 +1,238 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4 {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 100px;
+}
+
+.header {
+    background: linear-gradient(to bottom, #ececec 80%, #d6d6d6 20%);
+    height: 100vh;
+    position: relative;
+}
+
+.header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 10vh;
+}
+
+.logo-item {
+    width: 200px;
+}
+
+.menu-item {
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0 15px;
+    padding: 10px;
+    font-weight: 600;
+    transition: all .5s;
+}
+
+.menu-item__dark {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+
+.menu-item:hover {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    
+}
+
+
+/* header-content */
+
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.header-content::after {
+    content: '';
+    position: absolute;
+    background: url('../img/dotted.png') center no-repeat;
+    background-size: 100%;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    bottom: 60px;
+    left: 350px;
+}
+
+.header-content::before {
+    content: '';
+    position: absolute;
+    background: url('../img/dotted2.png') center no-repeat;
+    background-size: 100%;
+    width: 80px;
+    height: 450px;
+    top: -50px;
+    left: 600px;
+    z-index: 2;
+}
+
+.header-image {
+    position: relative;
+}
+
+.header-image::after {
+    content: '';
+    position: absolute;
+    background: url('../img/paralax6.png') center no-repeat;
+    background-size: 100%;
+    width: 150px;
+    height: 150px;
+    left: 0;
+    bottom: 200px;
+}
+
+.header-image__img {
+    width: 650px;
+}
+
+.header-text {
+    text-align: center;
+    position: relative;
+}
+
+.header::before {
+    content: '';
+    position: absolute;
+    background: url('../img/paralax-kvadrat.png') center no-repeat;
+    background-size: 100%;
+    width: 50x;
+    height: 50px;
+    top: 0;
+    right: 0;
+}
+
+.header::after {
+    content: '';
+    position: absolute;
+    background: url('../img/paralax5.png') center no-repeat;
+    background-size: 100%;
+    width: 150px;
+    height: 100px;
+    bottom: 0px;
+    right: 0;
+}
+
+.header-text__title {
+    font-size: 50px;
+    margin: 0;
+}
+
+.header-text__subtitle {
+    font-size: 100px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin: 0;
+    color: transparent; /* прозрачный цвет букв */
+    -webkit-text-stroke: 2px #000;
+}
+
+.header-text__write {
+    font-size: 13px;
+    margin: 0;
+    font-weight: 600;
+    width: 460px;
+}
+
+.header-image__paralax1 {
+    position: absolute;
+    background: url('../img/paralax1.png') no-repeat;
+    width: 100px;
+    top: 550px;
+    right: 600px;
+    height: 100px;
+    background-size: 100%;
+}
+
+.header-image__paralax2 {
+    position: absolute;
+    background: url('../img/paralax2.png') no-repeat;
+    width: 100px;
+    top: 100px;
+    left: 100px;
+    height: 300px;
+    background-size: 100%;
+}
+
+.header-image__paralax3 {
+    position: absolute;
+    background: url('../img/paralax3.png') no-repeat;
+    width: 100px;
+    top: 100px;
+    right: 0;
+    height: 100px;
+    background-size: 100%;
+}
+
+
+.header-image__paralax4 {
+    position: absolute;
+    background: url('../img/paralax4.png') no-repeat;
+    width: 50px;
+    height: 50px;
+    right: 50px;
+    bottom: 200px;
+    background-size: 100%;
+}
+
+
+
+.btn {
+    margin-top: 40px;
+}
+
+.btn-link {
+    background-color: #efb81d;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 25px;
+    border: 3px solid #000;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 13px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.1), 0 10px 10px rgba(0,0,0,0.1);
+    transition: all .5s;
+}
+
+.btn-link:hover {
+    background-color: aliceblue;
+    color: #000;
+}
+
+.header-social {
+  position: absolute;
+  bottom: 50px;
+}
+
+.social-item {
+    width: 20px;
+    margin: 0 5px;
+}
+
