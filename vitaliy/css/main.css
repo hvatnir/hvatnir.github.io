@@ -1158,6 +1158,9 @@ img {
         display: block;
         z-index: 4;
     }
+    .optom-content__left-img {
+        display: none;
+    }
   /* скрываем чекбокс */
 #menu__toggle {
     opacity: 0;
