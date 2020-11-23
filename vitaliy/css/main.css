@@ -936,6 +936,12 @@ img {
         bottom: 0px;
         right: 480px;
     }
+    .instal-one__content {
+        padding: 0 170px;
+    }
+    .contact-sec__platform {
+        padding: 0 250px;
+    }
   }
 
 
