@@ -959,7 +959,8 @@ img {
         display: none;
     }
     .logo-item {
-        width: 100px;
+        width: 130px;
+        margin-left: -10px;
     }
     .nav-shop__item {
         width: 30px;
