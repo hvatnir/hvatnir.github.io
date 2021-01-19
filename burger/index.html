@@ -9,6 +9,7 @@
 </head>
 <body>
 <div class="cursor"></div>
+
     <header class="header">
         <div class="container">
             <div class="header-top">
@@ -24,6 +25,22 @@
                         <a href="team.html" class="header-menu__link">Команда</a>
                     </ul>
                 </div>
+                <div class="burger">
+                    <div id="menu-bar">
+                        <div id="menu" onclick="onClickMenu()">
+                            <div id="bar1" class="bar"></div>
+                            <div id="bar2" class="bar"></div>
+                            <div id="bar3" class="bar"></div>
+                        </div>
+                        <ul class="nav" id="nav">
+                            <li><a class="burger-item" href="index.html">Главная</a></li>
+                            <li><a class="burger-item" href="project.html">Проекты</a></li>
+                            <li><a class="burger-item" href="view.html">Съемки</a></li>
+                            <li><a class="burger-item" href="team.html">Команда</a></li>
+                        </ul>
+                    </div>
+                    <div class="menu-bg" id="menu-bg"></div>
+                </div>
                 <a href="#" class="header-top__merc">
                     <div class="header-merc__group">
                         <img src="img/shopping-cart.png" alt="" class="header-merc__img">
@@ -32,7 +49,7 @@
                 </a>
             </div>
             <div class="header-content">
-                <h1 class="header-content__title">Label com</h1>
+                <h1 class="header-content__title"><span>Label com</span></h1>
             </div>
             <div class="header-bottom">
                 <div class="header-bottom__shop">
@@ -42,7 +59,7 @@
                     </div>
                     <div class="header-shop__two">
                         <p class="header-shop__subtitle-two">youtube</p>
-                        <p class="header-shop__title-two">3,2 m</p>
+                        <p class="header-shop__title-two">3,2 <span>m</span></p>
                     </div>
                 </div>
                 <div class="header-bottom__video">
