@@ -1,0 +1,605 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0D0D0D;
+    color: #fff;
+    font-family: terminator;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 100vh;
+    background: url('../img/header-img.jpg') center;
+    background-size: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.container {
+    padding: 0 50px;
+    margin: 0 auto;
+}
+
+.header-logo__text-one {
+    color: #fff;
+    text-transform: uppercase;
+    font-family: terminator;
+}
+
+.header-logo__text-two {
+    color: #C5EE30;
+    text-transform: uppercase;
+    font-family: terminator;
+}
+
+.header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.header-top__merc {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    transition: .5s;
+}
+
+.header-top__merc p{
+    transition: .5s;
+}
+
+.header-top__merc:hover p {
+    color: #fff;
+}
+
+.header-merc__group {
+    background-color: #C5EE30;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    position: relative;
+}
+
+.header-merc__img {
+    width: 14px;
+    position: absolute;
+    right: 8px;
+    top: 7px;
+}
+
+.header-merc__text {
+    margin-left: 10px;
+    font-family: terminator;
+    font-size: 10px;
+    color: #C5EE30;
+}
+
+.header-menu__link {
+    text-decoration: none;
+    color: #fff;
+    font-family: terminator;
+    font-size: 10px;
+    margin: 0 30px;
+    transition: .3s;
+}
+
+.header-menu__link:hover {
+    color: #C5EE30;
+}
+
+.header-content__title {
+    font-size: 100px;
+    font-family: terminator;
+    text-align: center;
+    margin-top: 40px;
+    position: relative;
+}
+
+.header-content__title::before {
+    content: '';
+    position: absolute;
+    top: 20px;
+    left: 965px;
+    background: url('../img/star-1957919_1280.webp');
+    width: 100px;
+    height: 100px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.header-bottom {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    align-items: center;
+}
+
+.header-shop__one {
+    background-color: #fff;
+    padding: 20px 10px;
+    position: relative;
+    width: 480px;
+}
+
+.header-shop__subtitle-one {
+    color: #0D0D0D;
+    font-weight: 700;
+    font-family: terminator;
+    font-size: 8px;
+    position: absolute;
+    top: 45px;
+    left: 0;
+    -moz-transform: rotate(90deg); /* Для Firefox */
+    -ms-transform: rotate(90deg); /* Для IE */
+    -webkit-transform: rotate(90deg); /* Для Safari, Chrome, iOS */
+    -o-transform: rotate(90deg); /* Для Opera */
+}
+
+.header-shop__title-one {
+    color: #0D0D0D;
+    font-weight: 700;
+    font-family: terminator;
+    font-size: 46px;
+    margin-left: 130px;
+}
+
+.header-shop__two {
+    background-color: #C5EE30;
+    padding: 20px 30px;
+    position: relative;
+    width: 480px;
+}
+
+.header-shop__subtitle-two {
+    color: #ffffff;
+    font-weight: 700;
+    font-family: terminator;
+    font-size: 8px;
+    position: absolute;
+    top: 48px;
+    left: 0;
+    -moz-transform: rotate(90deg); /* Для Firefox */
+    -ms-transform: rotate(90deg); /* Для IE */
+    -webkit-transform: rotate(90deg); /* Для Safari, Chrome, iOS */
+    -o-transform: rotate(90deg); /* Для Opera */
+}
+
+.header-shop__title-two {
+    color: #0D0D0D;
+    font-weight: 700;
+    font-family: terminator;
+    font-size: 46px;
+    margin-left: 110px;
+}
+
+.header-bottom__video {
+    position: relative;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.header-bottom__video::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: .4;
+}
+
+.header-bottom__video:hover::before {
+    display: none;
+}
+
+.header-video__screen {
+    height: 202px;
+    width: 360px;
+}
+
+.header-video__group {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+
+.header-video__title {
+    font-family: terminator;
+    color: #C5EE30;
+    font-size: 6px;
+}
+
+.header-video__text {
+    font-family: terminator;
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 8px;
+}
+
+.header-bottom__bilet {
+    margin-left: 60px;
+}
+
+.header-bilet__arrow {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header-bilet__title {
+    font-family: terminator;
+    color: #ffffff;
+    font-size: 18px;
+    width: 200px;
+}
+
+.header-bilet__arrow {
+    margin-top: 30px;
+}
+
+.header-arrow__text {
+    font-family: terminator;
+    color: #ffffff;
+    font-size: 8px;
+    margin-left: 15px;
+}
+
+.header-left {
+    position: absolute;
+    left: -118px;
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+}
+
+.header-left__link {
+    font-family: terminator;
+    color: #575757;
+    text-decoration: none;
+    font-size: 10px;
+    margin: 0 30px;
+}
+
+.header-content__project {
+    margin-top: 150px;
+}
+
+.header-project__link {
+    color: transparent; 
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.479);
+    text-decoration: none;
+    font-size: 60px;
+    font-family: terminator;
+    display: block;
+    text-align: center;
+    font-style: italic;
+    transition: .3s;
+}
+
+.header-project__link:hover {
+    color: #fff;
+}
+
+.header-copy__text {
+    text-align: center;
+    margin-top: 120px;
+    font-family: terminator;
+    font-size: 8px;
+    color: rgba(255, 255, 255, 0.479);
+}
+
+.header-team__all {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 60px;
+}
+
+.header-team__item {
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+    width: 50%;
+}
+
+.header-team__item::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: .4;
+}
+
+.header-team__item:hover::before {
+    opacity: .1;
+}
+
+.team-img {
+    width: 756px;
+}
+
+.team-group__arrow {
+    display: flex;
+    align-items: center;
+}
+
+.team-item__group {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 95%;
+}
+
+.team-item__text {
+    font-family: terminator;
+    font-size: 12px;
+}
+
+.team-group__text {
+    margin-left: 20px;
+    font-family: terminator;
+    font-size: 7px;
+}
+
+.container-view {
+    padding: 0 300px;
+}
+
+.view-top {
+    margin-top: 150px;
+}
+
+.view-top__title {
+    font-size: 40px;
+    width: 300px; 
+}
+
+.view-content {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    justify-content: space-between;
+    position: relative;
+}
+
+.view-content::before {
+    content: '';
+    position: absolute;
+    bottom: -60px;
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.116);
+}
+
+.view-right__title{
+    display: block;
+    color: #C5EE30;
+    font-size: 30px;
+}
+
+.view-right__subtitle {
+    display: block;
+    margin-top: 20px;
+    color: rgba(255, 255, 255, 0.521);
+}
+
+.view-right__subtitle {
+   width: 400px;
+   font-size: 9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: terminator; /* Имя шрифта */
+    src: url(../font/terminator.ttf); /* Путь к файлу со шрифтом */
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1600px) {
+    .header-content__project {
+        margin-top: 50px;
+    }
+    .header-copy__text {
+        margin-top: 10px;
+    }
+    .header-content__title::before {
+        left: 770px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .header-shop__one {
+        width: 300px;
+    }
+    .header-shop__two {
+        width: 300px;
+    }
+    .header-shop__title-one {
+        margin-left: 50px;
+        font-size: 40px;
+    }
+    .header-shop__title-two {
+        margin-left: 50px;
+        font-size: 40px;
+    }
+    .header-bottom__bilet {
+        margin-left: 20px;
+    }
+    .header-content__title::before {
+        left: 650px;
+    }
+    .header-team__item {
+        width: 50%
+    }
+    .team-img {
+        width: 638px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+   .header-bottom {
+       flex-wrap: wrap;
+       top: 600px;
+   }
+   .header-bottom__shop {
+       display: flex;
+   }
+   .vid-none {
+       display: none;
+   }
+   .header {
+       width: 800px;
+       background-position-y: 610px;
+   }
+   .header-content {
+       margin-top: 90px;
+   }
+   .header-top {
+       margin-top: 50px;
+   }
+   .header-logo__text-one {
+       font-size: 40px;
+   }
+   .header-top__menu {
+       display: none;
+   }
+   .header-top__merc {
+       display: none;
+   }
+   .header-bottom {
+       margin-top: 250px;
+   }
+   .header-shop__one {
+       width: 400px;
+   }
+   .header-shop__two {
+       width: 400px;
+   }
+   .header-video__screen {
+       width: 100%;
+       height: 455px;
+   }
+   .header-video__title {
+       font-size: 30px;
+   }
+   .header-video__text{
+       font-size: 18px;
+   }
+   .header-bilet__title {
+       font-size: 30px;
+   }
+   .header-bottom__bilet {
+       display: flex;
+   }
+   .header-bilet__arrow {
+       margin-left: 70px;
+   }
+   .header-bottom__bilet{
+       margin-left: 90px;
+       margin-top: 70px;
+   }
+   .header-arrow__text {
+       font-size: 20px;
+   }
+   .header-project__link {
+       font-size: 27px;
+       margin: 20px 0;
+   }
+   .header-copy__text {
+       margin-top: 70px;
+   }
+   .container-view {
+       padding: 0 20px;
+   }
+   .view-right__subtitle {
+       width: 200px;
+   }
+   .view-right__title {
+       font-size: 17px;
+   }
+   .view-left__text {
+       font-size: 11px;
+   }
+   .view-top__title {
+       font-size: 20px;
+   }
+   .header-team__item {
+       width: 100%;
+   }
+   .header-team__item::before {
+       width: 638px;
+   }
+   .title-none {
+       display: none;
+   }
+ 
+}
+
+@media screen and (max-width: 350px) {
+    
+}
