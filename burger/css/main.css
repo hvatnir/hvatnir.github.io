@@ -578,7 +578,7 @@ p {
         width: 50%
     }
     .team-img {
-        width: 638px;
+        width: 100%;
     }
 }
 
@@ -711,6 +711,9 @@ p {
    }
    .header-left__link {
        font-size: 15px;
+   }
+   .logo-none {
+       display: none;
    }
 }
 
