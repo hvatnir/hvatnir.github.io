@@ -719,7 +719,7 @@ p {
        font-size: 8px;
    }
    .header-content__project  {
-       margin-top: 150px;
+       padding-top: 50px;
    }
 }
 
