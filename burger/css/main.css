@@ -715,6 +715,12 @@ p {
    .logo-none {
        display: none;
    }
+   .team-item__text {
+       font-size: 8px;
+   }
+   .content__project  {
+       margin-top: 150px;
+   }
 }
 
 @media screen and (max-width: 350px) {
