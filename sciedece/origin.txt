@@ -1,0 +1,468 @@
+Uri: https://sciedece.com.ua/
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\index.htm
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/assets/icons/apple-icon-57x57-1316573d52f23097beebb80dbfc9ed398f82cff0a78c8b8ccf9ce6f4b098fa05.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\apple-icon-57x57-1316573d52f23097beebb80dbfc9ed398f82cff0a78c8b8ccf9ce6f4b098fa05.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/apple-icon-60x60-6786542829b12606f8c8896295a215031c76f259dc70a7fb741361b079eda747.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\apple-icon-60x60-6786542829b12606f8c8896295a215031c76f259dc70a7fb741361b079eda747.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/apple-icon-72x72-f044474bbd4649bf335f98fb6a4c74581f1e7739d70bc58a3beb852909c1055e.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\apple-icon-72x72-f044474bbd4649bf335f98fb6a4c74581f1e7739d70bc58a3beb852909c1055e.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/apple-icon-76x76-8d74e25fd6c89acd049047a238302160b72a071ddeca649c2fe57ce0f069de21.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\apple-icon-76x76-8d74e25fd6c89acd049047a238302160b72a071ddeca649c2fe57ce0f069de21.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/apple-icon-114x114-ae111637e082509a3f513f3379fed277cb6938dafb87f357a7084d8f0a3e611c.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\apple-icon-114x114-ae111637e082509a3f513f3379fed277cb6938dafb87f357a7084d8f0a3e611c.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/apple-icon-120x120-828a6bc81264cee8ceb95ba001855d01f8c04415dd246b662f51a13d093b37cd.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\apple-icon-120x120-828a6bc81264cee8ceb95ba001855d01f8c04415dd246b662f51a13d093b37cd.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/apple-icon-144x144-27d39f24d14f8155475c25d993e18490f6bfbea092ddc6207b84c6e5ea7be8b4.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\apple-icon-144x144-27d39f24d14f8155475c25d993e18490f6bfbea092ddc6207b84c6e5ea7be8b4.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/apple-icon-152x152-3a00c460e643e9ec0950283164c049e8fccd4c4fe74049b33546b4532d3886cf.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\apple-icon-152x152-3a00c460e643e9ec0950283164c049e8fccd4c4fe74049b33546b4532d3886cf.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/apple-icon-180x180-c34cf87f3f9b74c52a414963012cdd1d15b65ae1858c5a2f3b41b6a8d96fddf3.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\apple-icon-180x180-c34cf87f3f9b74c52a414963012cdd1d15b65ae1858c5a2f3b41b6a8d96fddf3.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/android-icon-192x192-d5460794d9832d1c43d596f0320f64a6e59bc49b88215ca2f97ce628f106f911.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\android-icon-192x192-d5460794d9832d1c43d596f0320f64a6e59bc49b88215ca2f97ce628f106f911.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/favicon-32x32-9f342f7c92285b497240cfe31735ac83ed3ee063a390f4e9b2c41af117102e93.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\favicon-32x32-9f342f7c92285b497240cfe31735ac83ed3ee063a390f4e9b2c41af117102e93.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/favicon-96x96-9149b22a512fde2eb4792376adc97f416de75e69c40394bb9a1efdf7e350823e.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\favicon-96x96-9149b22a512fde2eb4792376adc97f416de75e69c40394bb9a1efdf7e350823e.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/icons/favicon-16x16-39b605b7f4be381de00cac6939a9bc5aa9a16a6882b9e93f057a121beb733602.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\icons\favicon-16x16-39b605b7f4be381de00cac6939a9bc5aa9a16a6882b9e93f057a121beb733602.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/manifest.json
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\manifest.json
+Content Type: application/json
+
+Uri: https://sciedece.com.ua/assets/application-f37b26ed2cd0eada458ee77ee6011ce6c7b5385061e568817aeaf982f03cc43b.css
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\application-f37b26ed2cd0eada458ee77ee6011ce6c7b5385061e568817aeaf982f03cc43b.css
+Content Type: text/css
+
+Uri: https://sciedece.com.ua/ru/about
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\about.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/doctors
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\doctors.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/prices
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\prices.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/contacts
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\contacts.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/services
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\services.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/assets/application-76783ace4f446fedba300e10da0f0bde1b581ce11a2ac8b41c026b438cd67b19.js
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\application-76783ace4f446fedba300e10da0f0bde1b581ce11a2ac8b41c026b438cd67b19.js
+Content Type: application/javascript
+
+Uri: https://sciedece.com.ua/uploads/service_picture/57/preview____________-_2.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\57\preview____________-_2.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/61/preview________-___-___________-_.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\61\preview________-___-___________-_.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/65/preview______________-_____-_.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\65\preview______________-_____-_.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/60/preview____________-_.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\60\preview____________-_.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/62/preview________-________-_.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\62\preview________-________-_.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/63/preview___________-_.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\63\preview___________-_.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/58/preview_______-_3.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\58\preview_______-_3.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/55/preview_________-_____-_2.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\55\preview_________-_____-_2.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/64/preview_________-_.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\64\preview_________-_.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/105/preview_KAVO_smal.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\105\preview_KAVO_smal.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/223/preview_cerec-y.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\223\preview_cerec-y.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/service_picture/221/preview_big_sed.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\service_picture\221\preview_big_sed.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/preloader.gif
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\preloader.gif
+Content Type: image/gif
+
+Uri: https://sciedece.com.ua/assets/logo.svg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://sciedece.com.ua/assets/logo_title.svg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\logo_title.svg
+Content Type: image/svg+xml
+
+Uri: https://sciedece.com.ua/assets/logo_title_en.svg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\logo_title_en.svg
+Content Type: image/svg+xml
+
+Uri: https://sciedece.com.ua/assets/logo_title_uk.svg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\logo_title_uk.svg
+Content Type: image/svg+xml
+
+Uri: https://sciedece.com.ua/assets/social_icons.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\social_icons.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/designer_logo.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\designer_logo.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/arrow_down.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\arrow_down.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/assets/not_found_bg.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\assets\not_found_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/35/interior4.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\35\interior4.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/36/interior1.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\36\interior1.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/34/interior3.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\34\interior3.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/38/interior2.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\38\interior2.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/37/interior5.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\37\interior5.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/39/tools1.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\39\tools1.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/41/tools2.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\41\tools2.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/48/tools3.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\48\tools3.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/49/tools4.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\49\tools4.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/50/tools5.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\50\tools5.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/51/tools6.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\51\tools6.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/52/tools7.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\52\tools7.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/53/tools8.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\53\tools8.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/slide_picture/54/tools9.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\slide_picture\54\tools9.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/en/about
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\about.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/about
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\about.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/doctors
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\doctors.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/contacts
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\contacts.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en/doctors
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\doctors.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/doctors
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\doctors.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/contacts?doctor_id=22
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\contacts-1.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/contacts?doctor_id=23
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\contacts-2.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/contacts?doctor_id=24
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\contacts-3.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/contacts?doctor_id=25
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\contacts-4.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/contacts?doctor_id=32
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\contacts-5.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/contacts?doctor_id=29
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\contacts-6.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/contacts?doctor_id=27
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\contacts-7.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/ru/contacts?doctor_id=34
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\ru\contacts-8.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uploads/doctor_photo/42/7b.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\doctor_photo\42\7b.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/doctor_photo/43/4b.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\doctor_photo\43\4b.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/doctor_photo/44/3b.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\doctor_photo\44\3b.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/doctor_photo/45/2b.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\doctor_photo\45\2b.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/doctor_photo/213/armen.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\doctor_photo\213\armen.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/doctor_photo/59/8b.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\doctor_photo\59\8b.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/doctor_photo/47/6b.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\doctor_photo\47\6b.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/doctor_photo/66/9bnew.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\doctor_photo\66\9bnew.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/doctor_photo/226/Yurii.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\doctor_photo\226\Yurii.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/en/prices
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\prices.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/prices
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\prices.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en/contacts
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\contacts.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/contacts
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\contacts.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en/services
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\services.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/services
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\services.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/21/big_image_7.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\21\big_image_7.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/11/big_image_2.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\11\big_image_2.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/13/big_image_3.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\13\big_image_3.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/15/big_image_4.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\15\big_image_4.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/17/big_image_5.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\17\big_image_5.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/19/big_image_6.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\19\big_image_6.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/23/big_image_8.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\23\big_image_8.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/9/big_image_1.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\9\big_image_1.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/25/big_image_9.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\25\big_image_9.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/106/KAVO_SERVIS.jpg
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\106\KAVO_SERVIS.jpg
+Content Type: image/jpeg
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/224/cerec-x.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\224\cerec-x.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/uploads/cover_picture/222/small_sed.png
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uploads\cover_picture\222\small_sed.png
+Content Type: image/png
+
+Uri: https://sciedece.com.ua/en/contacts?doctor_id=22
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\contacts-1.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en/contacts?doctor_id=23
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\contacts-2.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en/contacts?doctor_id=24
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\contacts-3.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en/contacts?doctor_id=25
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\contacts-4.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en/contacts?doctor_id=32
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\contacts-5.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en/contacts?doctor_id=29
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\contacts-6.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en/contacts?doctor_id=27
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\contacts-7.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/en/contacts?doctor_id=34
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\en\contacts-8.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/contacts?doctor_id=22
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\contacts-1.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/contacts?doctor_id=23
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\contacts-2.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/contacts?doctor_id=24
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\contacts-3.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/contacts?doctor_id=25
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\contacts-4.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/contacts?doctor_id=32
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\contacts-5.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/contacts?doctor_id=29
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\contacts-6.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/contacts?doctor_id=27
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\contacts-7.html
+Content Type: text/html
+
+Uri: https://sciedece.com.ua/uk/contacts?doctor_id=34
+File Name: c:\Downloaded Web Sites\sciedece.com.ua\uk\contacts-8.html
+Content Type: text/html
+
