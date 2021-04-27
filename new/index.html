@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;600;700&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+    <link rel="stylesheet" href="css/main.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header">
+
+        <div class="container">
+            <div class="header__top">
+                <a href="index.html" class="header__logo">
+                    <img src="img/logo.png" alt="" class="header-logo__img">
+                </a>
+                <div class="header__menu">
+                    <ul>
+                        <li><a href="index.html">Главная</a></li>
+                        <li><a href="personal.html">О нас</a></li>
+                        <li><a href="#service-id">Услуги</a></li>
+                        <li><a href="#stages-id">Кейсы</a></li>
+                        <li><a href="#reviews-id">Отзывы</a></li>
+                        <li><a href="#footer-id">Контакты</a></li>
+                    </ul>
+                </div>
+                <div class="header__contact">
+                    <button data-modal-target="#modal" class="header-contact__link">Связаться с нами</button>
+                </div>
+                <a href="#" class="header__tel">
+                    <p class="header-tel__link">+7 (812) 309 93 97</p>
+                    <p class="header-tel__text">office@kulaw.ru</p>
+                </a>
+            </div>
+            <div class="header__content">
+                <div class="header__left">
+                    <div class="header-content__text">
+                        <p class="header-text__title">Консалтинговое агентство «LEV»</p>
+                        <p class="header-text__write">Вы уже дошли до состояния, когда у вас нет времени, чтобы разрешить те проблемы, которые отнимают у вас все время?</p>
+                    </div>
+                    <div class="header-content__btn">
+                        <a href="#" class="header-btn__link">Проконсультироваться</a>
+                    </div>
+                </div>
+                <div class="header__center">
+                    <img src="img/illustration.png" alt="" class="header-center__img">
+                </div>
+                <div class="header__right">
+                    <div class="header-right__texts">
+                        <p class="header-texts__subtitle">Проектное управление</p>
+                        <p class="header-texts__title">Повышени эфективности вашего предприятия рестораного типа</p>
+                        <p class="header-texts__write">Вы уже дошли до состояния, когда у вас нет времени, чтобы разрешить те проблемы, которые отнимают у вас все время?</p>
+                    </div>
+                    <div class="header-right__btns">
+                        <a href="#" class="header-btns__link">Подробнее о услуге</a>
+                        <div class="header-btn__line"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="header__middle">
+            <div class="container">
+                <div class="header-middle__background">
+                    <li><a href="turnkey.html" class="header-middle__link">Создание стиля</a></li>
+                    <li><a href="turnkey.html" class="header-middle__link">Разработка дизайна</a></li>
+                    <li><a href="turnkey.html" class="header-middle__link">Построение бизнес-плана</a></li>
+                    <li><a href="turnkey.html" class="header-middle__link">Подбор помещения</a></li>
+                    <li><a href="turnkey.html" class="header-middle__link">Ремонтно-отделочные работы</a></li>
+                    <li><a href="turnkey.html" class="header-middle__link">Юридическая поддержка</a></li>
+                    <li><a href="turnkey.html" class="header-middle__link">Получение лицензий</a></li>
+                    <li><a href="turnkey.html" class="header-middle__link">Подбор поставщиков</a></li>
+                    <li><a href="turnkey.html" class="header-middle__link">Составление меню</a></li>
+                    <li><a href="turnkey.html" class="header-middle__link">Подбор персонала</a></li>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container">
+            <div class="header__bottom">
+                <div class="header-bottom__advantages">
+                    <div class="header-advantages__colum">
+                        <img src="img/idea.svg" alt="" class="header-colum__img">
+                        <div class="header-advantages__text">
+                            <p class="header-colum__title">Творческий подход</p>
+                            <p class="header-colum__write">Используем инновационные решения и нестандартные подходы.</p>
+                        </div>
+                    </div>
+                    <div class="header-advantages__colum">
+                        <img src="img/flash.svg" alt="" class="header-colum__img">
+                        <div class="header-advantages__text">
+                            <p class="header-colum__title">От проекта до ресторана</p>
+                            <p class="header-colum__write">Сопровождение от этапа планирования до первых клиентов.</p>
+                        </div>
+                    </div>
+                    <div class="header-advantages__colum">
+                        <img src="img/expert.svg" alt="" class="header-colum__img">
+                        <div class="header-advantages__text">
+                            <p class="header-colum__title">Знания о успешный опыт</p>
+                            <p class="header-colum__write">В нашей команда собраны профессионали на счёту которых десятки успешных проектов</p>
+                        </div>
+                    </div>
+                    <div class="header-advantages__colum">
+                        <img src="img/time.svg" alt="" class="header-colum__img">
+                        <div class="header-advantages__text">
+                            <p class="header-colum__title">Поддержка 24/7</p>
+                            <p class="header-colum__write">Наши менеджеры держут связь с клиентами 7 дней в неделю и всегда готовы дать отчёт по выполненым этапам работы.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="personal">
+        <div class="container">
+            <div class="personal__content">
+                <div class="personal-content__left">
+                   <div class="personal-left__text">
+                    <p class="personal-left__title">Мы работаем на всей территории СНГ и Европе</p>
+                    <p class="personal-left__write">Основной офис «LEV CONSULTING» находится в г. Харьков, но мы выполняем проекты, помогая открыть кафе, ресторан или бар по всей Украине, Европе и странам СНГ. Кроме того, мы даём консультации как по телефону, так и при личной встречи в нашем офисе или вашем заведении.</p>
+                   </div>
+                   <div class="personal-left__btn">
+                       <a href="#" class="personal-btn__link">Услуги</a>
+                       <div class="personal-left__line"></div>
+                   </div>
+                </div>
+                <div class="personal-right__img">
+                    <img src="img/chess.webp" alt="" class="personal-img__item">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="restoran">
+        <div class="container">
+            <div class="restoran__content">
+                <div class="restoran-right__img">
+                    <img src="img/_MG_6158.webp" alt="" class="restoran-img__item">
+                </div>
+                <div class="restoran-content__left">
+                    <div class="restoran-right__text">
+                     <p class="restoran-right__title">Кто управляет вашими проектами в LEV CONSULTING?</p>
+                     <p class="restoran-right__write">Что отличает профессионала от непрофессионала? Практика. Знания, долгой работой превращенные в умения и отточенные до навыков. Мы знаем, умеем, у нас есть многолетний навык. В нашем профессиональном багаже десятки проектов, каждодневная практика создания и работы в реальных, а не «сферических в вакууме» ресторанах, кафе, клубах, отелях.</p>
+                    </div>
+                    <div class="restoran-right__btn">
+                        <a href="#" class="restoran-btn__link">Услуги</a>
+                        <div class="restoran-right__line"></div>
+                    </div>
+                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="service" id="service-id">
+        <div class="container">
+            <div class="service__content">
+                <div class="service__left">
+                    <div class="service-left__title">
+                        <p class="service-title__item">Услуги "LEV consulting"</p>
+                    </div>
+                    <div class="service__all">
+                        <a href="turnkey.html" class="service-left__colums">
+                            <div class="service-colums__text">
+                                <p class="service-text__title"> Ресторан<br>под ключ</p>
+                                <p class="service-text__write">Разработка концепции ресторана под ключ. Создание фирменного стиля, названия заведения, брэндинг и прочее.</p>
+                            </div>
+                            <div class="service-colums__btn">
+                                <p class="service-btn__link">Подробнее</p>
+                            </div>
+                        </a>
+                        <a href="stages.html" class="service-left__colums">
+                            <div class="service-colums__text">
+                                <p class="service-text__title">Помощь в отдельных<br>этапах</p>
+                                <p class="service-text__writes">Сопровождение на отдельных этапах открытия ресторана. Вы можете выбрать одну из опций перечисленных в списке ниже.</p>
+                            </div>
+                            <div class="service-colums__btn">
+                                <p class="service-btn__link">Подробнее</p>
+                            </div>
+                        </a>
+                        <a href="dev.html" class="service-left__colums">
+                            <div class="service-colums__text">
+                                <p class="service-text__title">Разработка<br>концепции</p>
+                                <p class="service-text__write">Создаём прорывные стратегии и концепты спобособные конкурировать как на отчественном, так и на европейском рынке.</p>
+                            </div>
+                            <div class="service-colums__btns">
+                                <p class="service-btn__link">Подробнее</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="service__right">
+                    <div class="service-right__present">
+                        <p class="service-present__title">От создателя и наши проекты :</p>
+                        <p class="service-present__text">Главная Миссия ресторанного бизнеса – предоставить обществу гостеприимный сервис и качественно приготовленные блюда.</p>
+                        <p class="service-present__text">Перед тем как открыть ресторан, очень важно понимать, что это не так просто, как может показаться сначала. Есть нюансы, о которых важно знать. От того, насколько большим объемом информации будет владеть человек, который хочет открыть ресторанный бизнес, и будет зависеть успех будущего кафе или ресторана.</p>
+                        <div class="service-present__btn">
+                            <a href="#" class="service-btn__link">Консультация по услугам</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="stages" id="stages-id">
+        <div class="container">
+            <div class="stages__content">
+                <div class="stages-content__left">
+                    <p class="stages-left__title">Успешные проекты</p>
+                    <p class="stages-left__text">Многолетний опыт работы с ресторанами, неминуемо приводит к тому, что у компании складывается кейс с успешными пароектами и репутацией на рынке.</p>
+                    <p class="stages-left__text">Мы понимаем, где на самом деле лежат те самые подводные камни, о которые разбивается теория, почерпнутая исключительно в популярных книгах модных авторов. Нам не надо объяснять те фактические взаимосвязи предметов и событий, что существуют на реально работающем предприятии – мы их изучили изнутри.</p>
+                    <div class="stages-left__btn">
+                        <a href="#" class="stages-btn__link">Начните свой проект</a>
+                        <div class="stages-link__line"></div>
+                    </div>
+                </div>
+                <div class="stages-content__right">
+                    <a href="https://www.cafemaris.be/fr/accueil/" class="stages-right__item">
+                        <img src="img/one-rest.webp" alt="" class="stages-item__img">
+                        <div class="stages-item__colum">
+                            <p class="stages-colum__text">Restoran "cafe maris"</p>
+                        </div>
+                    </a>
+                    <a href="https://www.jeuxdhiver.be/fr" class="stages-right__item">
+                        <img src="img/two-rest.webp" alt="" class="stages-item__img">
+                        <div class="stages-item__colum">
+                            <p class="stages-colum__text">Restoran "jeuxdhiver"</p>
+                        </div>
+                    </a>
+                    <a href="https://labelleequipe.be/#photos" class="stages-right__item">
+                        <img src="img/three-rest.webp" alt="" class="stages-item__img">
+                        <div class="stages-item__colum">
+                            <p class="stages-colum__text">Restoran "labelleequipe"</p>
+                        </div>
+                    </a>
+                    <a href="https://www.google.com/maps/place/La+Dibiterie/@50.7945754,4.3649086,14z/data=!4m12!1m6!3m5!1s0x47c3c5106e764217:0xaf90747f51411fc9!2sLa+Dibiterie!8m2!3d50.7946171!4d4.364707!3m4!1s0x47c3c5106e764217:0xaf90747f51411fc9!8m2!3d50.7946171!4d4.364707?hl=ru-UA" class="stages-right__item">
+                        <img src="img/four-rest.webp" alt="" class="stages-item__img">
+                        <div class="stages-item__colum">
+                            <p class="stages-colum__text">Restoran "La Dibiterie"</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="reviews" id="reviews-id">
+        <div class="container">
+            <div class="rewiews__slider">
+                <div class="rewies-slider__slide">
+                    <div class="rewies-slide__all">
+                        <div class="rewies-slide__colum">
+                            <div class="rewies-colum__img">
+                                <img src="img/logo-rest1.png" alt="" class="rewies-img__item">
+                            </div>
+                            <div class="rewies-colum__text">
+                                <p class="rewies-text__peronality">Евгений П.</p>
+                                <p class="rewies-text__desc">Руководитель проекта <br> "L'Abri - Cotier".</p>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="rewies-slide__text">Ян Клименков и Евгений Ушкалов разработали для нашего агентства договорную базу по разработке, поддержке и продвижению сайтов. Были учтены все наши требования. Мы очень высоко ценим работу, которая была проделана специалистами юридической фирмы K&U Law и надеемся на долгое и плодотворное сотрудничество в дальнейшем.</p>
+                    <div class="rewies-slide__bottom">
+                        <p class="rewies-bottom__prefics">Все отызвы</p>
+                    </div>
+                </div>
+                <div class="rewies-slider__slide">
+                    <div class="rewies-slide__all">
+                        <div class="rewies-slide__colum">
+                            <div class="rewies-colum__img">
+                                <img src="img/logo-rest2.png" alt="" class="rewies-img__item">
+                            </div>
+                            <div class="rewies-colum__text">
+                                <p class="rewies-text__peronality">Evan J.</p>
+                                <p class="rewies-text__desc">Управляющий ресторанов <br> "Bar Restaurante San Roque".</p>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="rewies-slide__text">Ян Клименков и Евгений Ушкалов разработали для нашего агентства договорную базу по разработке, поддержке и продвижению сайтов. Были учтены все наши требования. Мы очень высоко ценим работу, которая была проделана специалистами юридической фирмы K&U Law и надеемся на долгое и плодотворное сотрудничество в дальнейшем.</p>
+                    <div class="rewies-slide__bottom">
+                        <p class="rewies-bottom__prefics">>Все отзывы</p>
+                    </div>
+                </div>
+                <div class="rewies-slider__slide">
+                    <div class="rewies-slide__all">
+                        <div class="rewies-slide__colum">
+                            <div class="rewies-colum__img">
+                                <img src="img/logo-rest3.png" alt="" class="rewies-img__item">
+                            </div>
+                            <div class="rewies-colum__text">
+                                <p class="rewies-text__peronality">Darek S.</p>
+                                <p class="rewies-text__desc">Владелец<br> "labelleequipe.".</p>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="rewies-slide__text">Ян Клименков и Евгений Ушкалов разработали для нашего агентства договорную базу по разработке, поддержке и продвижению сайтов. Были учтены все наши требования. Мы очень высоко ценим работу, которая была проделана специалистами юридической фирмы K&U Law и надеемся на долгое и плодотворное сотрудничество в дальнейшем.</p>
+                    <div class="rewies-slide__bottom">
+                        <p class="rewies-bottom__prefics">Все отзывы</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+      <footer class="footer" id="footer-id">
+            <div class="container__footer">
+                <div class="footer__content">
+                    <div class="footer-content__colum">
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">Services</a></li>
+                            <li><a href="#">Case</a></li>
+                            <li><a href="#">Reviews</a></li>
+                        </ul>
+                        <div class="footer__copy1">
+                            <p class="footer-copy__texts">All rights reserved</p>
+                        </div>
+                    </div>
+                    <div class="footer-content__colum">
+                        <ul>
+                            <li><a href="#">Turnkey restaurant</a></li>
+                            <li><a href="#">Assistance in individual stages</a></li>
+                            <li><a href="#">Concept development</a></li>
+                        </ul>
+                        <div class="footer__copy2">
+                            <p class="footer-copy__texts">© lev consulting 2021</p>
+                        </div>
+                    </div>
+                    <div class="footer-content__colum">
+                        <ul>
+                            <li><a href="#">Facebook</a></li>
+                            <li><a href="#">Telegram</a></li>
+                            <li><a href="#">WhatsUp</a></li>
+                            <li><a href="#">LinkedIn</a></li>
+                        </ul>
+                        <div class="footer__copy3">
+                            <a href="#" class="footer-copy__link">Terms and Conditions</a>
+                        </div>
+                    </div>
+                    <div class="footer-content__colum">
+                        <ul>
+                            <li><a href="#">Location</a></li>
+                            <li><a href="#">Control</a></li>
+                        </ul>
+                        <div class="footer__copy4">
+                            <a href="#" class="footer-copy__link">Privacy Policy</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+      </footer>
+
+      <div class="modal" id="modal">
+        <div class="modal-header">
+          <button data-close-button class="close-button">&times;</button>
+        </div>
+        <div class="modal-body">
+            <div class="form">
+                <div class="wrapper>">
+                    <div class="form">
+                        <form action="#" id="form" class="form__body">
+                            <div class="form__item">
+                                <label for="formName" class="form__label">Имя Фамилия*:</label>
+                                <input id="formName" type="text" name="name" class="form__input">
+                            </div>
+                            <div class="form__item">
+                                <label for="formEmail" class="form__label">Номер телефона*:</label>
+                                <input id="formEmail" type="text" name="email" class="form__input">
+                            </div>
+                            <div class="form__item">
+                                <label for="formMessage" class="form__label">Сообщение:</label>
+                                <textarea name="message" id="formMessage" class="form__input"></textarea>
+                            </div>
+                            <div class="form__item">
+                                <div class="checkbox">
+                                    <input id="formAgreement" type="checkbox" name="agreement" class="checkbox__input">
+                                    <label for="formAgreement" class="form_label">Я даю свое согласие на обработку персональных данных.</label>
+                                </div>
+                            </div>
+                            <button type="submit" class="form__button">Отправить</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+      <div id="overlay"></div>  
+
+
+
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
