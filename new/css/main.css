@@ -1237,7 +1237,230 @@ ul {
         padding-top: 20px;
         padding-bottom: 20px;
     }
-    
-  
+    .service-colums__btn {
+        margin-top: 50px;
+    }
+    .service-colums__btns {
+        margin-top: 50px;
+    }
     
 }
+
+@media screen and (max-width: 450px) {
+    .container {
+        margin: 0 auto;
+        padding: 0 10px;
+    }
+    .header__menu {
+        display: none;
+    }
+    .header__tel {
+        display: none;
+    }
+    .header__content {
+        flex-wrap: wrap;
+    }
+    .header__content {
+        padding: 0 10px;
+        margin: 0 auto;
+    }
+    .header-text__write {
+        width: 340px;
+    }
+    .header-center__img {
+        width: 320px;
+    }
+    .header-content__text {
+        width: 340px;
+    }
+    .header-texts__title {
+        width: 340px;
+    }
+    .header__center {
+        margin-top: 50px;
+    }
+    .header__right {
+        margin-top: 50px;
+    }
+    .header-right__texts {
+        width: 340px;
+    }
+    .header-texts__write {
+        width: 340px;
+    }
+    .header__middle {
+        display: none;
+    }
+    .header-bottom__advantages {
+        flex-wrap: wrap;
+    }
+    .header-advantages__colum {
+        margin-top: 30px;
+    }
+    .personal__content {
+        padding: 0;
+    }
+    .personal__content {
+        flex-wrap: wrap-reverse;
+    }
+    .personal-left__text {
+        width: 350px;
+    }
+    .personal-img__item {
+        width: 355px;
+    }
+    .personal-left__title {
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    .restoran {
+        margin-top: 50px;
+    }
+    .restoran__content {
+        flex-wrap: wrap;
+        padding: 0;
+    }
+    .restoran-img__item {
+        width: 355px;
+        height: 250px;
+    }
+    .restoran-right__text {
+        width: 350px;
+    }
+    .restoran-right__title {
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    .service {
+        margin-top: 50px;
+        height: 100%;
+        padding-bottom: 50px;
+    }
+    .service__content {
+        flex-wrap: wrap;
+    }
+    .service__all {
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+    .service-title__item {
+        font-size: 20px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .service-left__colums {
+        margin-top: 20px;
+        width: 100%;
+    }
+    .service__right {
+        display: none;
+    }
+    .stages {
+        margin-top: 50px;
+    }
+    .stages__content {
+        flex-wrap: wrap;
+    }
+    .stages-content__right {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .stages-right__item {
+        margin-top: 20px;
+    }
+    .reviews {
+        margin-top: 50px;
+    }
+    .rewies-slider__slide {
+        padding: 0 20px;
+    }
+    .rewies-slide__text {
+        font-size: 13px;
+    }
+    .slider__arrow-right {
+        visibility: hidden;
+    }
+    .slider__arrow-left {
+        visibility: hidden;
+    }
+    .footer {
+        margin-top: 50px;
+        background-color: #333435;
+        height: 100%;
+        margin-bottom: 0;
+    }
+    .container__footer {
+        padding: 0 10px;
+        margin: 0 auto;
+    }
+    .footer-content__colum ul {
+        display: none;
+    }
+    .footer__copy1 {
+        margin-top: 100px;
+    }
+    .footer__copy2 {
+        margin-top: 100px;
+    }
+    .footer__copy3 {
+        margin-top: 100px;
+    }
+    .footer__copy4 {
+        margin-top: 100px;
+    }
+    .footer-content__colum {
+        margin: 0 auto;
+        padding-bottom: 50px;
+    }
+    .footer-content__colum a {
+        display: none;
+    }
+    .footer-copy__texts {
+        font-size: 14px;
+        color: #fff;
+    }
+    .header__content {
+        margin-top: 10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .service-colums__btn {
+        margin-top: 50px;
+    }
+    .service-colums__btns {
+        margin-top: 50px;
+    }
+}
+
+/*
+
+@media screen and (max-width: 1750px) {
+    .header-right__texts {
+        width: 360px;
+    }
+    .header-middle__link {
+        font-size: 10px;
+    }
+    .header-advantages__text {
+        width: 200px;
+        margin-left: 10px;
+    }
+    .header-colum__img {
+        width: 60px;
+    }
+    .header-colum__write {
+        width: 200px;
+    }
+    .header-colum__title {
+        font-size: 14px;
+    }
+    .personal-img__item {
+        width: 520px;
+    }
+    .restoran-img__item {
+        width: 530px;
+        height: 350px;
+    }
+}
+
+*/
