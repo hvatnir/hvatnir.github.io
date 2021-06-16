@@ -675,7 +675,7 @@ h1, h2, h3, h4 {
 
 
 
-@media (max-width: 400px) {
+@media (max-width: 460px) {
     .container {
         padding: 0 20px;
     }
